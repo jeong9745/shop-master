@@ -12,12 +12,15 @@
 > 23.08.07 ~ 23.09.14 (5주) \
 > 백엔드 5명
 
+<br/>
 
 # 기술 스택
 
-<img width="610" alt="cafe-bom 기술 스택" src="https://github.com/cafe-bom/cafe-bom-yesun/assets/108933466/b505b100-e18e-4851-8937-e851f57369fd">
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-<br/>
+
 <br/>
 
 # 주요 기능
@@ -37,6 +40,7 @@
 - 주문이 들어오면 예상 조리 시간을 선택해야 한다.
 - 주문이 들어오면 주문을 수락하거나 거절할 수 있다.
 
+<br/>
 
 # 추가 구현하고 싶은 기능
 
